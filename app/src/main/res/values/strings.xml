@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Room Contacts</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="created_on">Created On</string>
+</resources>
